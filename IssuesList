@@ -1,0 +1,4 @@
+Issues List
+
+  -Due to isses related to version the newest verson of node.js must be used with all said updates.
+  -Index Page failed to load due to file location. (fix: Line 11 fs.readFile edit index.html - ensure all files installed)
