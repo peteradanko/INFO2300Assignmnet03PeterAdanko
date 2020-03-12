@@ -1,5 +1,6 @@
 # INFO2300Assignmnet03PeterAdanko
 For Assignment03 INFO2300
+Finish
 
 My Name: Peter Adanko
 
